@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\bin\Debug\form8.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\bin\Debug\form8.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\bin\Debug\form8.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form8\form8\obj\Debug\form8.pdb
